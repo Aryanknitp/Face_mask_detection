@@ -1,0 +1,22 @@
+# Virtual environment folder
+myenv/
+venv/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets (Uncomment the lines below if your image folders are large)
+# test/
+# train/
+
+# Operating system files
+.DS_Store
+Thumbs.db
